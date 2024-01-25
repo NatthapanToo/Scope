@@ -1,8 +1,8 @@
 compile: main.c 
-	 gcc main.c -o ming
+	 gcc main.c -o ozone
 
-run: ming
-	 ./ming
+run: ozone
+	 ./ozone
 
-clean: ming
-	 rm ming
+clean: ozone
+	 rm ozone
